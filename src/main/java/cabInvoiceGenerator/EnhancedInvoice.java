@@ -1,5 +1,7 @@
 package cabInvoiceGenerator;
 
+import java.util.List;
+
 public class EnhancedInvoice {
 	private int numberOfRides;
 	private double totalFare;
